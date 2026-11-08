@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "simple-mcp": {
+      "command": "C:\\absolute\\path\\to\\simple-mcp\\simple-mcp.exe",
+      "args": []
+    }
+  }
+}
